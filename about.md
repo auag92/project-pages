@@ -7,4 +7,6 @@ published: true
 ---
 
 
-This blog is forked from Project Pages. Project Pages is a research blog tool that allows you to quickly show your latest results to an advisor, collaborators or your mom.
+
+This blog is supposed to be a comprehensive log of my research activities in the MINED group at GeorgiaTech
+
