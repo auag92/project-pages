@@ -8,15 +8,15 @@ url: "https://auag92.github.io/project-pages"
 
 
 # Secondary Parameters
-baseurl: "/project-pages"
+baseurl: "/auag92"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
+github_username:  auag92
 project_repository: project-pages
-disqus_shortname: auag92
+disqus_shortname: project-pages
 g-analytics: UA-75881392-1
 altmetric: true
 
